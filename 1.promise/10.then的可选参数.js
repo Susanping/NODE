@@ -1,5 +1,5 @@
 
-
+//
 const Promise = require('./myPromise/promise-3')
 new Promise((resolve,reject)=>{
     resolve('ok');
